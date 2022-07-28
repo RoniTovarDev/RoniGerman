@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-🎓 &nbsp; Currently studying self-taught, I have training as a Technologist in Information Systems Analysis and Development.
-💼 &nbsp; Strengthening developer skills for work and productivity.
-🌱 &nbsp; Learning more about design, web development and cloud infrastructure.
-✍️ &nbsp; Growing through challenges in communities to reaffirm skills and learn new ways of working.
+- 🎓 &nbsp; Currently studying self-taught, I have training as a Technologist in Information Systems Analysis and Development.
+- 💼 &nbsp; Strengthening developer skills for work and productivity.
+- 🌱 &nbsp; Learning more about design, web development and cloud infrastructure.
+- ✍️ &nbsp; Growing through challenges in communities to reaffirm skills and learn new ways of working.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
